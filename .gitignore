@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+build/
+dist/
+eggs/
+*.egg-info/
+pip-wheel-metadata/
+*.egg
+*.whl
+*.manifest
+*.spec
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDEs
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# PyTorch / model outputs
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.safetensors
+
+# Data / artifacts
+data/
+datasets/
+outputs/
+runs/
+checkpoints/
+
+# Secrets
+.env
+.env.*
