@@ -2,8 +2,7 @@
 
 Official implementation of **RoBERTa-OTA** for 5-class hate speech detection, accepted at CSCI'25.
 
-**Paper:** Multiclass Hate Speech Detection with RoBERTa-OTA: Integrating Transformer Attention and Graph Convolutional Networks  
-**Conference:** [12th Annual Conference on Computational Science & Computational Intelligence (CSCI'25)](https://www.american-cse.org/csci2025/)
+**Paper:** [Multiclass Hate Speech Detection with RoBERTa-OTA: Integrating Transformer Attention and Graph Convolutional Networks](https://arxiv.org/pdf/2603.04414)  
 
 ## Authors
 - **Mahmoud Abusaqer** - Missouri State University
@@ -56,8 +55,8 @@ RoBERTa-OTA/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/roberta-ota-multiclass-hate-speech.git
-cd roberta-ota-multiclass-hate-speech
+git clone https://github.com/MahmoudAbusaqer/RoBERTa-OTA.git
+cd RoBERTa-OTA
 ```
 
 ### Step 2: Create Virtual Environment (Optional but Recommended)
@@ -105,11 +104,11 @@ RoBERTa-OTA integrates:
 If you use this code or our work in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{abusaqer2025roberta-ota,
+@article{abusaqer2026multiclass,
   title={Multiclass Hate Speech Detection with RoBERTa-OTA: Integrating Transformer Attention and Graph Convolutional Networks},
   author={Abusaqer, Mahmoud and Saquer, Jamil},
-  booktitle={12th Annual Conference on Computational Science \& Computational Intelligence (CSCI)},
-  year={2025}
+  journal={arXiv preprint arXiv:2603.04414},
+  year={2026}
 }
 ```
 
@@ -134,4 +133,4 @@ For questions or collaborations, please contact:
 
 ---
 
-**Accepted at CSCI'25** | [12th Annual Conference on Computational Science & Computational Intelligence](https://www.american-cse.org/csci2025/)
+**Published in CSCI'25** | [Read the Paper](https://arxiv.org/pdf/2603.04414)
